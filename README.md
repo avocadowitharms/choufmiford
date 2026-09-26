@@ -10,6 +10,6 @@ Expected project URL: https://avocadowitharms.github.io/choufmiford/
 
 ## Photos
 
-Photo placeholders are intentional and the site can be published before photos are added. Put vehicle photos in `assets/` at the repository root, then set the five paths at the top of `app.js`: `hero`, `front`, `rear`, `interior`, `detail`. Example: `front: 'assets/front.jpg'`.
+The site uses optimized JPEG copies and PNG images in `assets/`, with all 19 images available in the gallery. `HERO.png` is the main hero image. The original HEIC photos and MP4 clips are retained locally. Photo paths and gallery captions are configured in `app.js`.
 
 The WhatsApp number and message are configurable in `app.js`.
